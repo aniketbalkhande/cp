@@ -1,4 +1,5 @@
 //04 #1089 Duplicate Zeros
+//https://leetcode.com/problems/duplicate-zeros/
 //Time: O(n) where n is the size of input array
 
 class Solution {

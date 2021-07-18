@@ -1,3 +1,5 @@
+//07 #0027Remove Element
+//https://leetcode.com/problems/remove-element/
 
 // using a 3rd array 
 // time: O(n)
